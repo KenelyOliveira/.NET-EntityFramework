@@ -1,0 +1,6 @@
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\bin\Debug\Kenely.EntityFramework.Entity.dll
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\bin\Debug\Kenely.EntityFramework.Entity.pdb
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\obj\Debug\Kenely.EntityFramework.Entity.csprojAssemblyReference.cache
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\obj\Debug\Kenely.EntityFramework.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\obj\Debug\Kenely.EntityFramework.Entity.dll
+C:\Users\Kenely\source\repos\Kenely-EntityFramework\Kenely.EntityFramework.Entity\obj\Debug\Kenely.EntityFramework.Entity.pdb
